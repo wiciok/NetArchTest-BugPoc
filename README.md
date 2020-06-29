@@ -1,4 +1,4 @@
-# NetArchTest-BugPof
+# NetArchTest-BugPoc
 Proof-of-concept of bug in NetArchTest library
 
 https://github.com/BenMorris/NetArchTest
